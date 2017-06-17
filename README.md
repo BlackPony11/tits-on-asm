@@ -2,6 +2,8 @@
 
 Just run `make` form project root folder. 
 
+On next step you need execute `./tits`. 
+
 ## Author channels
 
 https://www.twitch.tv/evilfreelancer
@@ -11,7 +13,7 @@ https://www.twitch.tv/evilfreelancer
 http://asm.sourceforge.net/intro/hello.html
 https://stackoverflow.com/questions/26963871/nasm-read-a-file-and-print-the-content
 
-## Example os result
+## Example of result
 
     ------------00---------------------------------------------00------------
     ----------00-------------------------------------------------00----------
