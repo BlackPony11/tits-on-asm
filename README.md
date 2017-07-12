@@ -1,5 +1,9 @@
 # Project T.I.T.S on Assembler
 
+Two beautiful tits written on Assembler
+
+## How to build
+
 Just run `make` form project root folder. 
 
 On next step you need execute `./tits`. 
