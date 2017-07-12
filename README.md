@@ -4,10 +4,6 @@ Just run `make` form project root folder.
 
 On next step you need execute `./tits`. 
 
-## Author channels
-
-https://www.twitch.tv/evilfreelancer
-
 ## Some links
 
 http://asm.sourceforge.net/intro/hello.html
